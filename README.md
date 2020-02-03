@@ -1,2 +1,2 @@
 # PSSquad
-General Scripts for Administering Squad Server
+General Scripts for Administering Squad Servers
